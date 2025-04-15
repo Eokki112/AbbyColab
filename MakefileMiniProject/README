@@ -1,0 +1,15 @@
+MA/CS 341 – Makefile Mini-Project
+
+Partners: Abby 
+
+To run the programs and generate the output files:
+    make
+
+To clean (delete) the output files:
+    make clean
+
+This project includes:
+- hello_world.py: writes 5 lines to output1.txt
+- script2.py: writes 5 different lines to output2.txt
+- Makefile: automates the running and cleanup process
+
